@@ -1,3 +1,7 @@
 # git_pratice
-lee jae yong
-Jian Lee
+
+## Team member
+
+- jae yong Lee 
+- Jian Lee 
+- seunghyun Lim 
